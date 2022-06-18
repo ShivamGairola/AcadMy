@@ -1,2 +1,1 @@
-# AcadMy
-# AcadMy
+
